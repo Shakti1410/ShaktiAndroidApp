@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333235855421",
+    "firebase_url": "https://kisan-market.firebaseio.com",
+    "project_id": "kisan-market",
+    "storage_bucket": "kisan-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333235855421:android:9ca6bef384083318050a54",
+        "android_client_info": {
+          "package_name": "com.shakti.kisanmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333235855421-014e4tesatbtifvpn1o4hlk97uks4mir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shakti.kisanmarket",
+            "certificate_hash": "df6b4b56224c96b722d2eb2fd357fc79ca985b80"
+          }
+        },
+        {
+          "client_id": "333235855421-ka78cv3cgtjp44rp9h0gqi5c5eds3vio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIDP0TlLiRxo8A5aj4KfKFEtHkNGclPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333235855421-ka78cv3cgtjp44rp9h0gqi5c5eds3vio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

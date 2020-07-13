@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">किसान बाजार</string>
+    <string name="slogan">अपना समाना अपना बाजार</string>
+    <string name="alreadyaccount">क्या आपके पास पहले से एक खाता मौजूद है? लॉग इन करें</string>
+    <string name="joinNow">अब सम्मिलित हों</string>
+    <string name="enter_number">फोन नंबर दर्ज</string>
+    <string name="enter_password">पास वर्ड दर्ज करें</string>
+    <string name="rem_me">मुझे याद रखना</string>
+    <string name="frgt_paswd">पासवर्ड भूल गए</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="madmin">मैं एक व्यवस्थापक हूँ?</string>
+    <string name="notadmin">मैं एक व्यवस्थापक नहीं हूँ?</string>
+    <string name="enter_name">अपना नाम दर्ज करें </string>
+    <string name="login_success">Logged in Successfully...</string>
+
+
+    <string name="add_new_product">नया उत्पाद जोड़ें</string>
+    <string name="cereals">अनाज</string>
+    <string name="pulses">दालें</string>
+    <string name="vegetable"> सब्जियां</string>
+    <string name="fruits"> फल </string>
+    <string name="others">अन्य</string>
+
+    <string name="selProductImage">उत्पाद छवि चयन करें</string>
+    <string name="productName">उत्पाद का नाम</string>
+    <string name="proDes">उत्पाद वर्णन</string>
+    <string name="prate">उत्पाद दर/भाव</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="setting_close">बंद करे</string>
+    <string name="setting_update">अपडेट करें</string>
+    <string name="setting_imageupdt">छवि अपडेट करें</string>
+    <string name="setting_phone">फ़ोन नंबर</string>
+    <string name="setting_name">पूरा नाम</string>
+    <string name="setting_address">पता</string>
+
+    <string name="cart_price">कुल कीमत</string>
+    <string name="cart_next">आगे</string>
+    <string name="add_cart">कार्ट में डालें</string>
+    <string name="cart_product_nme">उत्पाद का नाम</string>
+    <string name="cart_quantity">उत्पाद मात्रा</string>
+
+    <string name="shp_det">कृपया अपना शिपमेंट विवरण दर्ज करें</string>
+    <string name="shp_city">सीटी</string>
+    <string name="shp_confirm">पुष्टि करें</string>
+
+    <string name="m_seller">मैं विक्रेता हूं</string>
+    <string name="seller_reg">विक्रेता पंजीकरण फार्म</string>
+    <string name="seller_register">रजिस्टर करें</string>
+    <string name="seller_log">विक्रेता लॉगिन फ़ॉर्म</string>
+
+    <string name="seller_product">  सारे उत्पाद</string>
+    <string name="seller_pstate">उत्पाद की स्थिति</string>
+    <string name="m_cat">Categories</string>
+
+    <string name="wel_market"> किसान बाजार में आपका स्वागत है</string>
+    <string name="al_prod">सारे उत्पाद</string>
+    <string name="ad_prod">उत्पाद जोड़ें</string>
+    <string name="up_prod"> उत्पाद अपडेट करें</string>
+    <string name="or_his"> पिछले आदेश</string>
+    <string name="or_my"> My Order </string>
+
+    <string name="price_kg">प्रति किलोग्राम में मूल्य</string>
+    <string name="quan_kg">प्रति किलोग्राम में मात्रा</string>
+</resources>

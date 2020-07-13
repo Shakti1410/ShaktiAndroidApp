@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.shakti.kisanmarket.ui.home.HomeFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_home" />
+
+
+    <activity
+        android:id="@+id/nav_settings"
+        android:name="com.shakti.kisanmarket.SettingsActivity"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/activity_settings" />
+    <activity
+        android:id="@+id/nav_categories"
+        android:name="com.shakti.kisanmarket.UserProductCategoryActivity"
+        android:label="@string/m_cat"
+        tools:layout="@layout/activity_user_product_category" />
+    <activity
+        android:id="@+id/nav_history"
+        android:name="com.shakti.kisanmarket.OrederHistoryActivity"
+        android:label="@string/or_my"
+        tools:layout="@layout/activity_oreder_history" />
+    <activity
+        android:id="@+id/nav_cart"
+        android:name="com.shakti.kisanmarket.CartActivity"
+        android:label="@string/menu_cart"
+        tools:layout="@layout/activity_cart" />
+    <activity
+        android:id="@+id/nav_search"
+        android:name="com.shakti.kisanmarket.SearchProductsActivity"
+        android:label="@string/menu_search"
+        tools:layout="@layout/activity_search_products" />
+
+
+</navigation>

@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Kisaan Market</string>
+    <string name="slogan">Apna Saman Apna Market</string>
+    <string name="alreadyaccount">Already have an Account? Login</string>
+    <string name="joinNow">Join Now</string>
+    <string name="enter_number">Enter Phone Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="rem_me">Remember Me</string>
+    <string name="frgt_paswd">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="madmin">I m an Admin ?</string>
+    <string name="notadmin">I m Not an Admin ?</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="login_success">Logged in Successfully...</string>
+
+    <string name="add_new_product">Add New Product</string>
+    <string name="cereals">CEREALS</string>
+    <string name="pulses">PULSES</string>
+    <string name="vegetable">VEGETABLES</string>
+    <string name="fruits">FRUITS</string>
+    <string name="others">OTHERS</string>
+
+    <string name="selProductImage">Select Product Image</string>
+    <string name="productName">Product Name</string>
+    <string name="proDes">Product Description</string>
+    <string name="prate">Product Rate</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="setting_close">Close</string>
+    <string name="setting_update">Update</string>
+    <string name="setting_imageupdt">Update Image</string>
+    <string name="setting_phone">Phone Number</string>
+    <string name="setting_name">Full Name</string>
+    <string name="setting_address">Address</string>
+
+    <string name="cart_price">Total Price</string>
+    <string name="cart_next">Next</string>
+    <string name="add_cart">Add to Cart</string>
+    <string name="cart_product_nme">Product Name</string>
+    <string name="cart_quantity">Product Quantity</string>
+
+    <string name="shp_det">Please Enter your Shipment Details</string>
+    <string name="shp_city">City</string>
+    <string name="shp_confirm">Confirm</string>
+
+
+    <string name="m_seller">I Am Seller</string>
+    <string name="m_cat">Categories</string>
+    <string name="seller_reg">Seller Registration Form</string>
+    <string name="seller_register">Register</string>
+    <string name="seller_log">Seller Login Form</string>
+
+
+    <string name="seller_product">  All Products</string>
+    <string name="seller_pstate">Product State</string>
+
+    <string name="wel_market">   WELCOME AT KISAAN MARKET</string>
+    <string name="al_prod">All Products</string>
+    <string name="ad_prod">Add Products</string>
+    <string name="up_prod">Update Products</string>
+    <string name="or_his"> Order History</string>
+    <string name="or_my"> My Order </string>
+
+
+    <string name="price_kg">   Price in Per kilogram</string>
+    <string name="quan_kg">Quantity in kilogram</string>
+
+
+</resources>

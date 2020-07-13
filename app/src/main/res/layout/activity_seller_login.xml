@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sellers.SellerLoginActivity">
+
+    <ImageView
+        android:id="@+id/img_seller_login"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:src="@drawable/farmerlogin"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:id="@+id/title_seller_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/seller_log"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_below="@+id/img_seller_login"
+        android:layout_margin="20dp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:background="@android:color/holo_blue_dark"/>
+
+    <EditText
+        android:id="@+id/seller_login_ph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_seller_login"
+        android:background="@drawable/input_design"
+        android:padding="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:hint="@string/enter_number"
+        android:inputType="number"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="15dp"
+        android:textColorHint="@android:color/black"
+        android:textSize="17sp"
+        android:textStyle="bold"/>
+    <EditText
+        android:id="@+id/seller_login_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/seller_login_ph"
+        android:background="@drawable/input_design"
+        android:padding="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:hint="@string/enter_password"
+        android:inputType="textPassword"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="15dp"
+        android:textColorHint="@android:color/black"
+        android:textSize="17sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/seller_login_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/button"
+        android:textAllCaps="false"
+        android:layout_below="@+id/seller_login_password"
+        android:text="@string/login"
+        android:layout_marginTop="25dp"
+        android:inputType="text"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+</RelativeLayout>
